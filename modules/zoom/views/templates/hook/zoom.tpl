@@ -1,4 +1,4 @@
-<!-- Block zoom -->
+<!-- Block zoom 
 <div id="zoom_block_home" class="block">
   <h4>{l s='Welcome!' mod='zoom'}</h4>
   <div class="block_content">
@@ -12,4 +12,4 @@
     </p>
   </div>
 </div>
-<!-- /Block zoom -->
+ /Block zoom -->
